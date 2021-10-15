@@ -1,0 +1,9 @@
+[submodule "vim-protobuf"]
+	path = vim-protobuf
+	url = https://github.com/uarun/vim-protobuf.git
+[submodule "pack/plugins/vim-protobuf"]
+	path = pack/plugins/vim-protobuf
+	url = https://github.com/uarun/vim-protobuf.git
+[submodule "pack/plugins/start/vim-protobuf"]
+	path = pack/plugins/start/vim-protobuf
+	url = https://github.com/uarun/vim-protobuf.git
